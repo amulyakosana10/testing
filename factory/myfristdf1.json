@@ -1,0 +1,9 @@
+{
+	"name": "myfristdf1",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d444f875-c14c-4f64-b302-632c9ba4c0c5",
+		"tenantId": "0a565fb4-c1b3-4cf2-9d75-7d1fcc7af25e"
+	}
+}
